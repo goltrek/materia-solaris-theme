@@ -1,5 +1,5 @@
 # Materia Solaris Theme
-* Descrição: Tema baseado no tema Materia na cor cinza com borda e botões de janelas Materia Light.
+* Descrição: Baseado no tema Materia na cor cinza com borda e botões de janelas Materia Light.
 _____
 * Instalando: Ao baixar o arquivo .zip, extrair a pasta materia-solaris-theme-master para sua /home. Dentro dessa pasta tem o arquivo Materia Solaris.zip, extrair a pasta Materia Solaris para /home/.themes. Se não houver a pasta .themes, é preciso criar uma.
 _____
