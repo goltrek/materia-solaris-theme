@@ -1,2 +1,3 @@
 # Materia Solaris Theme
-Tema GTK 3 Materia Solaris
+* Descrição: Tema baseado em Materia Theme na cor cinza com borda e botões de janelas Materia Light.
+_____
